@@ -1,0 +1,17 @@
+.red {
+    display: none;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.fadein {
+    display: block;
+}
+.btn {
+    background-color: pink;
+    width: 20px;
+    height: 20px;
+}
+.btn:hover {
+    opacity: 0.5;
+}
